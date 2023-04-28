@@ -1,6 +1,6 @@
 # dataviz
 
 ## hello world
-
-### This is all about me.
+![自己紹介](images/自己紹介.jpg)
+### 
 
